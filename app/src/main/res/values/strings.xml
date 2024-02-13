@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TemperatureConverter</string>
+
+    <string name="calculate">Calculate</string>
+    <string name="fahrenheit">fahrenheit</string>
+    <string name="celsius">celsius</string>
+    <string name="interesting_message">Interesting Message</string>
+</resources>
